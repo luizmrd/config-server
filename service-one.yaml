@@ -1,0 +1,3 @@
+message: "Hello World from Github Config Server!"
+server:
+  port: 8081
